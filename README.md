@@ -1,5 +1,5 @@
 # YSC-AppAJumpToAppB
-iOS应用间的跳转Demo
+iOS应用间的跳转Demo，路过顺便给打个星，谢谢。
 
 ## 使用说明
 1. 打开App-A中的App-A.xcodeproj和App-B中的App-A.xcodeproj。
